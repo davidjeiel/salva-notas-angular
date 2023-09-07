@@ -1,6 +1,7 @@
 # Salva Notas Angular
 
 Este é um projeto Angular para criar e gerenciar notas.
+
 Parte da formação Alura para Angular.
 
 ## Tabela de Conteúdos
